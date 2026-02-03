@@ -1,3 +1,3 @@
-Hey, my name is Richard Jegede 👋
-I work as a Freelance Data & Analytics Analyst. I have a an Assiociate Degree in Mechatronics and Robitics engineering.
-My ultimate goal is to become better at data analysis and Artificial Intelligence
+✨ Systems Engineer | Data Analyst with a passion for Industrial IoT and Automation. I bridge the gap between physical hardware and digital insights. 🚀
+🛠️ Current Focus: Predictive Maintenance and Hardware-Software Integration.
+📊 Tools: Python (Pandas, PyTorch), SQL, Power BI, Embedded C, Robotics.
