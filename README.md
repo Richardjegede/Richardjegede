@@ -23,7 +23,7 @@
 
 ### 📫 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/richard-jegede
-- **Portfolio:** https://richardjegede.github.io/Richardanalyst.github.io/
+- **Portfolio:** https://richardjegede.github.io/portfolio
 - **Email:** richardjegede247@gmail.com
 
 ---
