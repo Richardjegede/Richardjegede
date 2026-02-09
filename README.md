@@ -24,7 +24,7 @@
 ### 📫 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/richard-jegede
 - **Portfolio:** https://richardjegede.github.io/portfolio
-- **Email:** richardjegede247@gmail.com
+- **Email:** richardjegede.eng@gmail.com
 
 ---
 *“Systems work best when logic meets movement.”*
