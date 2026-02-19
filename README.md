@@ -18,7 +18,7 @@
 
 ### 🚀 Highlighted Projects
 - **[Intelligent Elevator Control System]** - Prototype designed in Embedded C with real-time sensor feedback loops.
-- **[Amazon Web Scraper]** - Python-based market intelligence tool for competitive price monitoring.
+- **[Industrial AI Predictive Maintenance Dashboard]** - An end-to-end Industrial AI solution for Predictive Maintenance.
 - **[Employee Insights Dashboard]**- End-to-end BI solution visualizing workforce metrics via Power BI.
 
 ### 📫 Connect with Me
